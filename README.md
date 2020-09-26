@@ -9,7 +9,10 @@
 
 下载地址：http://nodejs.cn/download/
 
-
+## 下载项目所需依赖
+```
+npm install
+```
 
 ## 启动Server
 
